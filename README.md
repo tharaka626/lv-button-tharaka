@@ -1,5 +1,3 @@
-![Logo]
-<a href="https://freeimage.host/i/JooJG8F"><img src="https://iili.io/JooJG8F.md.jpg" alt="JooJG8F.md.jpg" border="0"></a>
 
 # lv-button-tharaka
 
