@@ -1,4 +1,4 @@
-![Logo](https://freeimage.host/i/JooJG8F)
+![Logo](https://iili.io/JooJG8F.md.jpg)
 
 # lv-button-tharaka
 
@@ -18,16 +18,16 @@ Install lv-button-tharaka with npm
 ```
 
 
+## 🚀 About Me
+Hello, I'm tharaka and a full stack developer...
+
 ## Authors
 
 - [@tharaka626](https://github.com/tharaka626)
 
-## 🚀 About Me
-I'm a full stack developer...
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tharaka97)
 
 
 ## License
@@ -37,4 +37,4 @@ I'm a full stack developer...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at tharakahd626@gmail.com
