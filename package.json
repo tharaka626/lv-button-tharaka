@@ -1,12 +1,14 @@
 {
   "name": "lv-button-tharaka",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "author": {
     "name": "Tharaka",
     "email": "tharakahd626@gmail.com"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "main": "./dist/lv-button.umd.js",
   "module": "./dist/lv-button.mjs",
   "exports": {
